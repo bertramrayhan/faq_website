@@ -30,12 +30,12 @@ For more information about the challenge, access the challenge editor on [devCha
 
 ## Steps to Complete the Challenge on devChallenges.io
 
-- [ ] Start by visiting [devChallenges.io](https://devchallenges.io/), navigate to the challenge page, and begin the challenge.
-- [ ] Once you have started the challenge, you will have access to the editor where you can download the necessary resources, check colors, fonts, and more.
-- [ ] Download the starter/resources, and if you are a Pro user, you can also download the Figma file.
-- [ ] Initialize the project as a Git repository.
-- [ ] Review the design and analyze the different versions for desktop, tablet, and mobile.
-- [ ] Plan your approach to the project by identifying reusable CSS classes and structuring your HTML content.
+- [V] Start by visiting [devChallenges.io](https://devchallenges.io/), navigate to the challenge page, and begin the challenge.
+- [V] Once you have started the challenge, you will have access to the editor where you can download the necessary resources, check colors, fonts, and more.
+- [V] Download the starter/resources, and if you are a Pro user, you can also download the Figma file.
+- [V] Initialize the project as a Git repository.
+- [V] Review the design and analyze the different versions for desktop, tablet, and mobile.
+- [V] Plan your approach to the project by identifying reusable CSS classes and structuring your HTML content.
 - [ ] Define the base styles for your project, including font-family, font-size, and other general content styles.
 - [ ] Begin adding styles from the top of the page and work your way down, ensuring that each section is visually appealing and matches the provided design.
 - [ ] Optimize and resize the required assets from the `/resources` folder as necessary.

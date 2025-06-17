@@ -45,12 +45,12 @@ header {
 main {
     background-color: #F8FAFC;
     padding-top: 60px;
-    padding-bottom: 20px;
-    padding-left: 60vh;
+    padding-bottom: 60px;
+    padding-left: 35vh;
 }
 
-ol {
-    padding-left: 20px;
+ol, ul {
+    padding-left: 25px;
     margin-left: 0;
 }
 
@@ -58,7 +58,7 @@ li {
     margin-bottom: 10px;
 }
 
-.q1 {
+.q1, .q2 {
     display: flex;
     flex-direction: column;
     gap: 25px;
@@ -69,5 +69,6 @@ hr {
   width: 70%;
   height: 1.5px;
   background-color: #D2D5DA;
-  margin-top: 25px;
+  margin-top: 37px;
+  margin-bottom: 37px;
 }
